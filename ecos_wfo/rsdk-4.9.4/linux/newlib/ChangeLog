@@ -1,0 +1,212 @@
+
+=================================================
+gcc-4.9
+
+	* 2020-01-30  GCC: restore -mmac for backward compatibility
+	* 2020-01-06  GCC: Fix VOIDmode access in mips16 mode
+	* 2019-12-26  arm: update multilib
+	* 2019-12-18  RLX: Fix some MD-related issues
+	* 2019-11-29  RLX: Fix multa2/mulna2 built-in functions
+	* 2019-11-29  RLX: let "movv2hi" fall back to "movsi_internal"
+	* 2019-11-29  RLX: adjust RLX-related flag handling
+	* 2019-11-29  RLX: Fix madda2/msuba2 built-in functions
+	* 2019-11-29  RLX: Fix Radix MD register related issues
+	* 2019-09-16  Revert "gcc: backport libssp configure option for gcc-8"
+	* 2019-07-24  Revert "gcc: fix musl libssp support"
+	* 2019-06-20  gcc: backport libssp configure option for gcc-8
+	* 2019-04-12  gcc: provide cost models for rlx processors
+	* 2019-02-26  gcc: fix radiax accumulator utilization problem
+	* 2019-01-22  gcc: use MMD-independent Radiax insns if 5281
+	* 2019-01-21  gcc: fix of -msave-restore-mmd code-gen
+	* 2019-01-14  gcc: bug fix of SIMD-related code-gen
+	* 2019-01-10  gcc: bug fix of unexpected code-gen (dead code)
+	* 2018-12-26  gcc: fix build error with newer host GCC
+	* 2018-01-30  gcc: bug fix of mips16 inline assembly order issue
+	* 2017-09-08  gcc: add fix-rx3081 multilib
+	* 2017-09-06  gcc: add -mfix-rx3081 option
+	* 2017-09-06  Revert "gcc: disable 3081 support"
+	* 2017-09-06  Revert "gcc: remove 3081 multi-lib"
+	* 2017-08-17  gcc: disable 3081 support
+	* 2017-08-16  gcc: update arm-linux arm-eabi multi-lib
+	* 2017-07-18  gcc: fix Taroko mips16 short-jump-table issue
+	* 2017-04-26  gcc: remove 3081 multi-lib
+	* 2017-04-05  gcc: disable thumb multilib for arm-linux targets
+	* 2017-03-20  gcc: regression: fix setenv & unsetenv bug
+	* 2017-03-20  gcc: add fpu multilib
+	* 2017-03-08  gcc: add required delay slot for ll instruction
+	* 2017-02-23  CEF: update to v3.5
+	* 2017-01-18  gcc: add -fstack-usage-mangled option
+	* 2016-11-16  gcc: refine TARGET_RLX_FPU macro
+	* 2016-11-16  gcc: disable ULS for 4181 by default
+	* 2016-11-07  gcc: fix t-linux bug for MIPS/RLX
+	* 2016-11-03  gcc: refine RLX option processing
+	* 2016-10-25  gcc: add -mhard-float multilib for Taroko
+	* 2016-08-01  gcc: fix invalid directory for --with-headers=yes
+	* 2016-07-27  Revert "gcc: upgrade uclibc to 1.0"
+	* 2016-07-27  gcc: fix bug of neon-fp-armv8 instruction
+	* 2016-07-22  CEF: warning collecting bug fix
+	* 2016-06-30  gcc: remove int-enums multilib
+	* 2016-06-29  gcc: fix CEF warning collection for Mingw32
+	* 2016-06-21  gcc: drop 4180 multilib
+	* 2016-06-06  gcc: fix libgcc build error under mingw32
+	* 2016-06-06  CEF: patch for the compatibility with MinGW
+	* 2016-03-22  gcc: use /lib instead of /lib64 for aarch64
+	* 2016-03-14  gcc: fix t-linux-eabi indentation
+	* 2016-03-14  gcc: fix musl libssp support
+	* 2016-03-14  Revert "gcc: don't auto-link ssp library"
+	* 2016-03-10  gcc: fix optimize bug
+	* 2016-03-10  gcc: fix multilib bug for arm-linux target
+	* 2016-03-10  gcc: set MULTILIB_MATCHES for armv7ve
+	* 2016-03-09  cef: add support of warning collecting
+	* 2016-03-02  gcc: fix libitm configure permission
+	* 2015-12-01  gcc: remove mips16 multi-lib
+	* 2015-11-19  gcc: allow C99-depending features of libstdc++ with uClibc
+	* 2015-11-17  Merge branch 'linaro/gcc-4.9' into gcc-4.9
+	* 2015-11-17  Make Linaro GCC Snapshot 4.9-2015.10.
+	* 2015-11-17  Merge branches/gcc-4_9-branch rev 229467
+	* 2015-11-17  gcc/ 2015-10-28 Yvan Roux  <yvan.roux@linaro.org> 	   Sebastian Pop  <s.pop@samsung.com>
+	* 2015-11-17  Bump version number, post release.
+	* 2015-10-14  gcc: update TLS and ULS options
+	* 2015-10-08  gcc: add support for rematerialize 32-bit constants in MIPS16R
+	* 2015-10-08  Revert "gcc: add support for loading 32-bit constants in MIPS16R"
+	* 2015-10-07  Merge branch 'linaro-4.9' into gcc-4.9
+	* 2015-10-07  Make Linaro GCC Snapshot 4.9-2015.06-1.
+	* 2015-10-07  Bump version number, post release.
+	* 2015-10-07  Make Linaro GCC4.9-2015.06.
+	* 2015-10-07  Merge branches/gcc-4_9-branch rev 225109.
+	* 2015-10-07  2015-06-02  Christophe Lyon  <christophe.lyon@linaro.org>
+	* 2015-10-07  Bump version number, post release.
+	* 2015-09-25  gcc: upgrade uclibc to 1.0
+	* 2015-09-23  gcc: add support for loading 32-bit constants in MIPS16R
+	* 2015-09-07  gcc: remove ASAN_CC1_SPEC for aarch64
+	* 2015-09-03  gcc: New FFP (Flattened Floating Point) Implementation
+	* 2015-08-21  gcc: refine soft-float option for RSDK
+	* 2015-08-14  Merge branch 'feature/musl' into gcc-4.9
+	* 2015-08-12  [PATCH 3/13] aarch64 musl support
+	* 2015-08-12  [PATCH 4/13] arm musl support
+	* 2015-08-12  [PATCH 9/13] x86 musl support
+	* 2015-08-12  [PATCH 6/13] mips musl support
+	* 2015-08-12  2014-10-08  Steve Ellcey  <sellcey@mips.com>
+	* 2015-08-12  [PATCH 0/13] Add musl support to GCC
+	* 2015-08-12  [PATCH 2/13] musl libc config
+	* 2015-08-12  libstdc++, libgfortran gthr workaround for musl
+	* 2015-08-12  unwind fix for musl
+	* 2015-08-12  fixincludes update for musl support
+	* 2015-08-12  libitm fixes for musl support
+	* 2015-08-12  Revert "gcc: apply openwrt's musl patch"
+	* 2015-08-12  Revert "gcc: add musl support to libstdc++"
+	* 2015-08-12  gcc: chmod 755 configure
+	* 2015-07-13  gcc: remove fp64 multilib
+	* 2015-07-10  gcc: exclude 3081 mips16 multilib
+	* 2015-07-06  gcc: fix armv8-a ASAN bug
+	* 2015-07-02  gcc: refine arm-elf multilib
+	* 2015-06-29  gcc: add -march=armv8-m option
+	* 2015-06-23  gcc: remove extra 4181 multilib
+	* 2015-05-29  gcc: add --enable-fix-cortex-a53-843419 option
+	* 2015-05-18  gcc: don't use libstdc++.la for libsanitizer
+	* 2015-05-05  Merge branch 'linaro/gcc-4.9' into gcc-4.9
+	* 2015-05-05  gcc: fix CFLAGS typo
+	* 2015-04-15  gcc: refine FPU option process for RSDK
+	* 2015-04-14  gcc: fix aarch64 invalid data type
+	* 2015-04-14  Merge tag 'linaro_gcc-4_9-2015_03' into gcc-4.9
+	* 2015-04-13  gcc: fix CFLAGS typo
+	* 2015-04-02  Merge 'linaro_gcc-4_9-2015_02' into gcc-4.9
+	* 2015-04-01  gcc: Adjust MAC and RADIAX code-gen
+	* 2015-03-24  gcc: allow mflxc0 for non-Taroko
+	* 2015-02-02  gcc: add musl support to libstdc++
+	* 2015-01-26  Merge branch 'linaro/gcc-4.9' into gcc-4.9
+	* 2014-12-29  Merge commit 'linaro/gcc-4.9' into gcc-4.9
+	* 2014-12-22  gcc: fix libstdc++_pic.a
+	* 2014-12-01  gcc: fix multilib for arm-elf
+	* 2014-10-24  gcc: revert t-arm-elf to official one
+	* 2014-10-21  gcc: add armv8-a multilib
+	* 2014-10-20  Merge branch 'linaro/gcc-4.9' into gcc-4.9
+	* 2014-09-18  Merge branches 'gnu/gcc-4.9' and 'linaro/gcc-4.9' into gcc-4.9
+	* 2014-09-15  gcc: apply openwrt's musl patch
+	* 2014-09-15  gcc: use eh_frame for uclibc toolchain
+	* 2014-09-15  gcc: fix mips.md
+	* 2014-09-10  gcc: refine `can_delay' attribute of mips.md
+	* 2014-08-17  CEF: Initial porting of CEF
+	* 2014-08-11  gcc: add back aarch64 `need_64bit_hwint'
+	* 2014-08-06  Merge 'origin/official/gcc-4.9' into gcc-4.9
+	* 2014-08-06  Merge commit 'linaro/gcc-4.9' into gcc-4.9
+	* 2014-07-24  gcc: cherry-pick gnulib sanitizer patches
+	* 2014-07-24  Merge tag 'gcc-4.9.1' into gcc-4.9
+	* 2014-07-11  Merge Linaro GCC 4.9-2014.06-1 into gcc-4.9
+	* 2014-07-04  gcc: update .gitignore
+	* 2014-07-04  gcc: fix cygwin compilation issue
+	* 2014-06-25  gcc: fix is_neon_type bug in type.md for Clang
+	* 2014-06-25  Merge branch 'gnu/gcc-4.9' into gcc-4.9
+	* 2014-06-19  gcc: add aarch64 support
+	* 2014-06-16  gcc: fix ARM alignment for NEON vst/vld
+	* 2014-06-16  gcc: fix mcpu processing for ARM
+	* 2014-06-16  gcc: ASDK porting
+	* 2014-06-16  gcc: add RLX processor support
+	* 2014-06-16  gcc: don't auto-link ssp library
+	* 2014-06-13  Merge 'official/gcc-4.9' and 'linaro/gcc-4.9' to gcc-4.9
+	* 2014-06-13  gcc: add -fuse-uls and -fuse-tls options
+	* 2014-06-11  gcc: add --enable-target-lto support
+	* 2014-06-11  gcc: install PIC libgcc & libstdc++
+	* 2014-06-11  gcc: hide configuration options
+	* 2014-05-22  gcc: add with-sdk support
+
+=================================================
+binutils-2.27
+
+	* 2020-03-26  binutils: add cortex-m nop testcase
+	* 2019-03-21  mips: fix bug of mips_mark_lables
+	* 2019-01-29  MIPS: fix mips16 label bug
+	* 2019-01-24  binutils: enhance mips1/mips16 identification
+	* 2019-01-23  MIPS: fix R_MIPS_26 relocation checker
+	* 2018-08-20  binutils: let armv8-m.main have MP extension by default
+	* 2018-07-26  add .gitreview
+	* 2018-07-26  MIPS/BFD: Remove EI_ABIVERSION 5 allocation for PT_GNU_STACK support
+	* 2018-06-25  binutils: add test for HEVC custom engine
+	* 2018-06-08  binutils: add --ce option for objdump
+	* 2018-05-10  binutils: add SDK check to separate RLX tests
+	* 2018-05-10  binutils: resolve gas test failures of Realtek CPUs
+	* 2018-05-10  binutils: fix load-use issue for noreorder section + PIC
+	* 2018-05-04  binutils: swap decode order: rfe and c0
+	* 2018-05-02  binutils: add tests for in-house CPUs
+	* 2018-04-19  binutils: remove FP_S attribute for cfc1 & ctc1
+	* 2018-04-18  binutils: fix cpc2 opcode bug
+	* 2018-04-18  binutils: fix sync opcode bug for Taroko
+	* 2018-04-10  binutils: add sllv.s & sll.s for Taroko
+	* 2018-04-10  [ARM] Fix the decoding of indexed element VCMLA instruction
+	* 2018-02-22  [Arm] Add CSDB instruction
+	* 2018-02-22  Add support for the AArch64's CSDB instruction.
+	* 2018-02-13  binutils: fix nop bug for v8m.base
+	* 2017-10-23  binutils: add aarch64 rcpc
+	* 2017-09-13  binutils: check MIPS16R mtc0 constraint
+	* 2017-09-07  binutils: add ELF flag EF_MIPS_MIPS16R
+	* 2017-09-06  binutils: add -mfix-rx3081 to for rx3081 errata
+	* 2017-08-22  binutils: add missing AARCH64_FEATURE_RCPC
+	* 2017-08-09  Merge branch 'feature/ananke' into binutils-2.27
+	* 2017-08-08  binutils: add cortex-a55 and cortex-a75
+	* 2017-08-08  Add support for the Cortex-A55 and Cortex-A75 versions of the AArch64 architecture.
+	* 2017-07-12  binutils: add real-m200/300/500 cpu support
+	* 2017-05-24  binutils: enable `bf00' nop for armv8-m.base
+	* 2017-05-24  binutils: fix TLS regression fail for RSDK
+	* 2017-05-24  binutils: fix cp0 name for RSDK disassembler
+	* 2017-05-24  binutlis: set default bfd machine to 5281 for RSDK
+	* 2017-05-24  binutils: add runtime opcode support
+	* 2017-05-24  binutils: add elf32elmip emulation for mips-elf
+	* 2017-05-24  binutils: add -warn-missing-delay-slot
+	* 2017-05-24  bintuils: add -warn-possible-load-use
+	* 2017-05-24  binutils: fix Taroko BDSL issue
+	* 2017-05-24  binutils: add realtek processor support
+
+=================================================
+gdb-7.8
+
+	* 2016-05-19  gdb: remove extra -ldl in configure.tgt
+	* 2015-10-01  gdb: tuning RLX porting
+	* 2015-09-07  Merge tag 'gdb-7.8.2' into gdb-7.8
+	* 2015-08-24  gdb: fix extern inline handling for MAC
+	* 2015-07-02  gdb: fix mips16 prologue detection
+	* 2015-06-01  gdb: don't install host libsim.a by default
+	* 2015-05-05  gdb: fix CFLAGS typo
+	* 2014-08-07  gdb: add rlx processor support
+	* 2014-08-07  gdb: apply RLX opcode & bfd patches
+	* 2014-08-07  gdb: add with_sdk support
+	* 2014-08-07  gdb: disable binutils, gas, (go)ld by default

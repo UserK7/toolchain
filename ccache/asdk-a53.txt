@@ -1,0 +1,113 @@
+total 83220
+drwxr-xr-x 2 bruce bruce     4096 Aug 17  2017 .
+drwxr-xr-x 8 bruce bruce     4096 Aug 17  2017 ..
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 aarch64-linux-addr2line -> aarch64-linux-gnu-addr2line
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 aarch64-linux-ar -> aarch64-linux-gnu-ar
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 aarch64-linux-as -> aarch64-linux-gnu-as
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-c++ -> aarch64-linux-gnu-c++
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-c++filt -> aarch64-linux-gnu-c++filt
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-config -> aarch64-linux-gnu-config
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-cpp -> aarch64-linux-gnu-cpp
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-dwp -> aarch64-linux-gnu-dwp
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-elfedit -> aarch64-linux-gnu-elfedit
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-g++ -> aarch64-linux-gnu-g++
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-gcc -> aarch64-linux-gnu-gcc
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 aarch64-linux-gcc-5.4.1 -> aarch64-linux-gnu-gcc-5.4.1
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-gcc-ar -> aarch64-linux-gnu-gcc-ar
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-gcc-nm -> aarch64-linux-gnu-gcc-nm
+lrwxrwxrwx 1 bruce bruce       28 Aug  1  2017 aarch64-linux-gcc-ranlib -> aarch64-linux-gnu-gcc-ranlib
+lrwxrwxrwx 1 bruce bruce       22 Aug  1  2017 aarch64-linux-gcov -> aarch64-linux-gnu-gcov
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 aarch64-linux-gcov-tool -> aarch64-linux-gnu-gcov-tool
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 aarch64-linux-gdb -> aarch64-linux-gnu-gdb
+-rwxr-xr-x 1 bruce bruce  1163736 Mar 28  2017 aarch64-linux-gnu-addr2line
+-rwxr-xr-x 1 bruce bruce  1195008 Mar 28  2017 aarch64-linux-gnu-ar
+-rwxr-xr-x 1 bruce bruce  1718156 Mar 28  2017 aarch64-linux-gnu-as
+-rwxr-xr-x 1 bruce bruce   424740 Aug  1  2017 aarch64-linux-gnu-c++
+-rwxr-xr-x 1 bruce bruce  1162808 Mar 28  2017 aarch64-linux-gnu-c++filt
+-rwxr-xr-x 1 bruce bruce   427908 Aug  1  2017 aarch64-linux-gnu-config
+-rwxr-xr-x 1 bruce bruce   424292 Aug  1  2017 aarch64-linux-gnu-cpp
+-rwxr-xr-x 1 bruce bruce  9774972 Mar 28  2017 aarch64-linux-gnu-dwp
+-rwxr-xr-x 1 bruce bruce    32916 Mar 28  2017 aarch64-linux-gnu-elfedit
+-rwxr-xr-x 1 bruce bruce   424740 Aug  1  2017 aarch64-linux-gnu-g++
+-rwxr-xr-x 1 bruce bruce   424292 Aug  1  2017 aarch64-linux-gnu-gcc
+-rwxr-xr-x 2 bruce bruce  6529440 Mar 28  2017 aarch64-linux-gnu-gcc-5.4.1
+-rwxr-xr-x 1 bruce bruce    39412 Mar 28  2017 aarch64-linux-gnu-gcc-ar
+-rwxr-xr-x 1 bruce bruce    39412 Mar 28  2017 aarch64-linux-gnu-gcc-nm
+-rwxr-xr-x 1 bruce bruce    39416 Mar 28  2017 aarch64-linux-gnu-gcc-ranlib
+-rwxr-xr-x 1 bruce bruce   861644 Mar 28  2017 aarch64-linux-gnu-gcov
+-rwxr-xr-x 1 bruce bruce   828416 Mar 28  2017 aarch64-linux-gnu-gcov-tool
+-rwxr-xr-x 1 bruce bruce  6030108 Mar 28  2017 aarch64-linux-gnu-gdb
+-rwxr-xr-x 1 bruce bruce  1189956 Mar 28  2017 aarch64-linux-gnu-gprof
+-rwxr-xr-x 1 bruce bruce   423236 Aug  1  2017 aarch64-linux-gnu-ld
+-rwxr-xr-x 1 bruce bruce   423236 Aug  1  2017 aarch64-linux-gnu-ld.bfd
+-rwxr-xr-x 1 bruce bruce 12378024 Mar 28  2017 aarch64-linux-gnu-ld.gold
+-rwxr-xr-x 1 bruce bruce    20079 Aug  1  2017 aarch64-linux-gnu-lstrip
+-rwxr-xr-x 1 bruce bruce      860 Aug  1  2017 aarch64-linux-gnu-mklink
+-rwxr-xr-x 1 bruce bruce  1177868 Mar 28  2017 aarch64-linux-gnu-nm
+-rwxr-xr-x 1 bruce bruce  1383980 Mar 28  2017 aarch64-linux-gnu-objcopy
+-rwxr-xr-x 1 bruce bruce  1863100 Mar 28  2017 aarch64-linux-gnu-objdump
+-rwxr-xr-x 1 bruce bruce  1195004 Mar 28  2017 aarch64-linux-gnu-ranlib
+-rwxr-xr-x 1 bruce bruce   524248 Mar 28  2017 aarch64-linux-gnu-readelf
+-rwxr-xr-x 1 bruce bruce     2641 Aug  1  2017 aarch64-linux-gnu-relink
+-rwxr-xr-x 1 bruce bruce  1167856 Mar 28  2017 aarch64-linux-gnu-size
+-rwxr-xr-x 1 bruce bruce   394196 Aug  1  2017 aarch64-linux-gnu-sstrip
+-rwxr-xr-x 1 bruce bruce  1164432 Mar 28  2017 aarch64-linux-gnu-strings
+-rwxr-xr-x 1 bruce bruce  1383980 Mar 28  2017 aarch64-linux-gnu-strip
+-rwxr-xr-x 1 bruce bruce   428132 Aug  1  2017 aarch64-linux-gnu-wrapper
+-rwxr-xr-x 2 bruce bruce  6533616 Mar 28  2017 aarch64-linux-gnu-xc++
+-rwxr-xr-x 1 bruce bruce  6533572 Mar 28  2017 aarch64-linux-gnu-xcpp
+-rwxr-xr-x 2 bruce bruce  6533616 Mar 28  2017 aarch64-linux-gnu-xg++
+-rwxr-xr-x 2 bruce bruce  6529440 Mar 28  2017 aarch64-linux-gnu-xgcc
+-rwxr-xr-x 1 bruce bruce  2331484 Mar 28  2017 aarch64-linux-gnu-xld
+lrwxrwxrwx 1 bruce bruce       23 Aug  1  2017 aarch64-linux-gprof -> aarch64-linux-gnu-gprof
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 aarch64-linux-ld -> aarch64-linux-gnu-ld
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-ld.bfd -> aarch64-linux-gnu-ld.bfd
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-ld.gold -> aarch64-linux-gnu-ld.gold
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-lstrip -> aarch64-linux-gnu-lstrip
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-mklink -> aarch64-linux-gnu-mklink
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 aarch64-linux-nm -> aarch64-linux-gnu-nm
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-objcopy -> aarch64-linux-gnu-objcopy
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-objdump -> aarch64-linux-gnu-objdump
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-ranlib -> aarch64-linux-gnu-ranlib
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-readelf -> aarch64-linux-gnu-readelf
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-relink -> aarch64-linux-gnu-relink
+lrwxrwxrwx 1 bruce bruce       22 Aug  1  2017 aarch64-linux-size -> aarch64-linux-gnu-size
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 aarch64-linux-sstrip -> aarch64-linux-gnu-sstrip
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-strings -> aarch64-linux-gnu-strings
+lrwxrwxrwx 1 bruce bruce       23 Aug  1  2017 aarch64-linux-strip -> aarch64-linux-gnu-strip
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 aarch64-linux-wrapper -> aarch64-linux-gnu-wrapper
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 asdk64-linux-addr2line -> aarch64-linux-gnu-addr2line
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 asdk64-linux-ar -> aarch64-linux-gnu-ar
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 asdk64-linux-as -> aarch64-linux-gnu-as
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-c++ -> aarch64-linux-gnu-c++
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-c++filt -> aarch64-linux-gnu-c++filt
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-config -> aarch64-linux-gnu-config
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-cpp -> aarch64-linux-gnu-cpp
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-dwp -> aarch64-linux-gnu-dwp
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-elfedit -> aarch64-linux-gnu-elfedit
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-g++ -> aarch64-linux-gnu-g++
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-gcc -> aarch64-linux-gnu-gcc
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 asdk64-linux-gcc-5.4.1 -> aarch64-linux-gnu-gcc-5.4.1
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-gcc-ar -> aarch64-linux-gnu-gcc-ar
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-gcc-nm -> aarch64-linux-gnu-gcc-nm
+lrwxrwxrwx 1 bruce bruce       28 Aug  1  2017 asdk64-linux-gcc-ranlib -> aarch64-linux-gnu-gcc-ranlib
+lrwxrwxrwx 1 bruce bruce       22 Aug  1  2017 asdk64-linux-gcov -> aarch64-linux-gnu-gcov
+lrwxrwxrwx 1 bruce bruce       27 Aug  1  2017 asdk64-linux-gcov-tool -> aarch64-linux-gnu-gcov-tool
+lrwxrwxrwx 1 bruce bruce       21 Aug  1  2017 asdk64-linux-gdb -> aarch64-linux-gnu-gdb
+lrwxrwxrwx 1 bruce bruce       23 Aug  1  2017 asdk64-linux-gprof -> aarch64-linux-gnu-gprof
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 asdk64-linux-ld -> aarch64-linux-gnu-ld
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-ld.bfd -> aarch64-linux-gnu-ld.bfd
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-ld.gold -> aarch64-linux-gnu-ld.gold
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-lstrip -> aarch64-linux-gnu-lstrip
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-mklink -> aarch64-linux-gnu-mklink
+lrwxrwxrwx 1 bruce bruce       20 Aug  1  2017 asdk64-linux-nm -> aarch64-linux-gnu-nm
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-objcopy -> aarch64-linux-gnu-objcopy
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-objdump -> aarch64-linux-gnu-objdump
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-ranlib -> aarch64-linux-gnu-ranlib
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-readelf -> aarch64-linux-gnu-readelf
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-relink -> aarch64-linux-gnu-relink
+lrwxrwxrwx 1 bruce bruce       22 Aug  1  2017 asdk64-linux-size -> aarch64-linux-gnu-size
+lrwxrwxrwx 1 bruce bruce       24 Aug  1  2017 asdk64-linux-sstrip -> aarch64-linux-gnu-sstrip
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-strings -> aarch64-linux-gnu-strings
+lrwxrwxrwx 1 bruce bruce       23 Aug  1  2017 asdk64-linux-strip -> aarch64-linux-gnu-strip
+lrwxrwxrwx 1 bruce bruce       25 Aug  1  2017 asdk64-linux-wrapper -> aarch64-linux-gnu-wrapper

@@ -1,0 +1,107 @@
+total 32828
+drwxr-xr-x 2 bruce bruce    4096 Dec 30 15:24 .
+drwxr-xr-x 8 bruce bruce    4096 Feb  6  2018 ..
+lrwxrwxrwx 1 bruce bruce      27 Dec 30 15:23 mips-linux-addr2line -> mips-linux-uclibc-addr2line
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 mips-linux-ar -> mips-linux-uclibc-ar
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 mips-linux-as -> mips-linux-uclibc-as
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-c++ -> mips-linux-uclibc-c++
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-c++filt -> mips-linux-uclibc-c++filt
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-config -> mips-linux-uclibc-config
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-cpp -> mips-linux-uclibc-cpp
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-elfedit -> mips-linux-uclibc-elfedit
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-g++ -> mips-linux-uclibc-g++
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-gcc -> mips-linux-uclibc-gcc
+lrwxrwxrwx 1 bruce bruce      27 Dec 30 15:23 mips-linux-gcc-4.8.5 -> mips-linux-uclibc-gcc-4.8.5
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-gcc-ar -> mips-linux-uclibc-gcc-ar
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-gcc-nm -> mips-linux-uclibc-gcc-nm
+lrwxrwxrwx 1 bruce bruce      28 Dec 30 15:23 mips-linux-gcc-ranlib -> mips-linux-uclibc-gcc-ranlib
+lrwxrwxrwx 1 bruce bruce      22 Dec 30 15:23 mips-linux-gcov -> mips-linux-uclibc-gcov
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-gdb -> mips-linux-uclibc-gdb
+lrwxrwxrwx 1 bruce bruce      23 Dec 30 15:23 mips-linux-gprof -> mips-linux-uclibc-gprof
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 mips-linux-ld -> mips-linux-uclibc-ld
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-ld.bfd -> mips-linux-uclibc-ld.bfd
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-lstrip -> mips-linux-uclibc-lstrip
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-mklink -> mips-linux-uclibc-mklink
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 mips-linux-nm -> mips-linux-uclibc-nm
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-objcopy -> mips-linux-uclibc-objcopy
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-objdump -> mips-linux-uclibc-objdump
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-ranlib -> mips-linux-uclibc-ranlib
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-readelf -> mips-linux-uclibc-readelf
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-relink -> mips-linux-uclibc-relink
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 mips-linux-run -> mips-linux-uclibc-run
+lrwxrwxrwx 1 bruce bruce      22 Dec 30 15:23 mips-linux-size -> mips-linux-uclibc-size
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 mips-linux-sstrip -> mips-linux-uclibc-sstrip
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-strings -> mips-linux-uclibc-strings
+lrwxrwxrwx 1 bruce bruce      23 Dec 30 15:23 mips-linux-strip -> mips-linux-uclibc-strip
+-rwxr-xr-x 1 bruce bruce  997289 Dec  3  2016 mips-linux-uclibc-addr2line
+-rwxr-xr-x 1 bruce bruce 1025313 Dec  3  2016 mips-linux-uclibc-ar
+-rwxr-xr-x 1 bruce bruce 1633979 Dec  3  2016 mips-linux-uclibc-as
+-rwxr-xr-x 1 bruce bruce  424740 Feb  6  2018 mips-linux-uclibc-c++
+-rwxr-xr-x 1 bruce bruce  994199 Dec  3  2016 mips-linux-uclibc-c++filt
+-rwxr-xr-x 1 bruce bruce  428868 Feb  6  2018 mips-linux-uclibc-config
+-rwxr-xr-x 1 bruce bruce  424292 Feb  6  2018 mips-linux-uclibc-cpp
+-rwxr-xr-x 1 bruce bruce   30441 Dec  3  2016 mips-linux-uclibc-elfedit
+-rwxr-xr-x 1 bruce bruce  424740 Feb  6  2018 mips-linux-uclibc-g++
+-rwxr-xr-x 1 bruce bruce  424292 Feb  6  2018 mips-linux-uclibc-gcc
+-rwxr-xr-x 1 bruce bruce 1088378 Dec  3  2016 mips-linux-uclibc-gcc-4.8.5
+-rwxr-xr-x 1 bruce bruce   40434 Dec  3  2016 mips-linux-uclibc-gcc-ar
+-rwxr-xr-x 1 bruce bruce   40370 Dec  3  2016 mips-linux-uclibc-gcc-nm
+-rwxr-xr-x 1 bruce bruce   40374 Dec  3  2016 mips-linux-uclibc-gcc-ranlib
+-rwxr-xr-x 1 bruce bruce  455226 Dec  3  2016 mips-linux-uclibc-gcov
+-rwxr-xr-x 1 bruce bruce 5998500 Dec  3  2016 mips-linux-uclibc-gdb
+-rwxr-xr-x 1 bruce bruce 1069655 Dec  3  2016 mips-linux-uclibc-gprof
+-rwxr-xr-x 1 bruce bruce  423236 Feb  6  2018 mips-linux-uclibc-ld
+-rwxr-xr-x 1 bruce bruce  423236 Feb  6  2018 mips-linux-uclibc-ld.bfd
+-rwxr-xr-x 1 bruce bruce   19966 Feb  6  2018 mips-linux-uclibc-lstrip
+-rwxr-xr-x 1 bruce bruce     858 Feb  6  2018 mips-linux-uclibc-mklink
+-rwxr-xr-x 1 bruce bruce 1011791 Dec  3  2016 mips-linux-uclibc-nm
+-rwxr-xr-x 1 bruce bruce 1193266 Dec  3  2016 mips-linux-uclibc-objcopy
+-rwxr-xr-x 1 bruce bruce 1488764 Dec  3  2016 mips-linux-uclibc-objdump
+-rwxr-xr-x 1 bruce bruce 1025312 Dec  3  2016 mips-linux-uclibc-ranlib
+-rwxr-xr-x 1 bruce bruce  413276 Dec  3  2016 mips-linux-uclibc-readelf
+-rwxr-xr-x 1 bruce bruce    2609 Feb  6  2018 mips-linux-uclibc-relink
+-rwxr-xr-x 1 bruce bruce 1567566 Dec  3  2016 mips-linux-uclibc-run
+-rwxr-xr-x 1 bruce bruce  998317 Dec  3  2016 mips-linux-uclibc-size
+-rwxr-xr-x 1 bruce bruce  394196 Feb  6  2018 mips-linux-uclibc-sstrip
+-rwxr-xr-x 1 bruce bruce  997161 Dec  3  2016 mips-linux-uclibc-strings
+-rwxr-xr-x 1 bruce bruce 1193265 Dec  3  2016 mips-linux-uclibc-strip
+-rwxr-xr-x 1 bruce bruce  428100 Feb  6  2018 mips-linux-uclibc-wrapper
+-rwxr-xr-x 1 bruce bruce 1092556 Dec  3  2016 mips-linux-uclibc-xc++
+-rwxr-xr-x 1 bruce bruce 1089054 Dec  3  2016 mips-linux-uclibc-xcpp
+-rwxr-xr-x 1 bruce bruce 1092556 Dec  3  2016 mips-linux-uclibc-xg++
+-rwxr-xr-x 1 bruce bruce 1088378 Dec  3  2016 mips-linux-uclibc-xgcc
+-rwxr-xr-x 1 bruce bruce 2054076 Dec  3  2016 mips-linux-uclibc-xld
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 mips-linux-wrapper -> mips-linux-uclibc-wrapper
+lrwxrwxrwx 1 bruce bruce      27 Dec 30 15:23 msdk-linux-addr2line -> mips-linux-uclibc-addr2line
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 msdk-linux-ar -> mips-linux-uclibc-ar
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 msdk-linux-as -> mips-linux-uclibc-as
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-c++ -> mips-linux-uclibc-c++
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-c++filt -> mips-linux-uclibc-c++filt
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-config -> mips-linux-uclibc-config
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-cpp -> mips-linux-uclibc-cpp
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-elfedit -> mips-linux-uclibc-elfedit
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-g++ -> mips-linux-uclibc-g++
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-gcc -> mips-linux-uclibc-gcc
+lrwxrwxrwx 1 bruce bruce      27 Dec 30 15:23 msdk-linux-gcc-4.8.5 -> mips-linux-uclibc-gcc-4.8.5
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-gcc-ar -> mips-linux-uclibc-gcc-ar
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-gcc-nm -> mips-linux-uclibc-gcc-nm
+lrwxrwxrwx 1 bruce bruce      28 Dec 30 15:23 msdk-linux-gcc-ranlib -> mips-linux-uclibc-gcc-ranlib
+lrwxrwxrwx 1 bruce bruce      22 Dec 30 15:23 msdk-linux-gcov -> mips-linux-uclibc-gcov
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-gdb -> mips-linux-uclibc-gdb
+lrwxrwxrwx 1 bruce bruce      23 Dec 30 15:23 msdk-linux-gprof -> mips-linux-uclibc-gprof
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 msdk-linux-ld -> mips-linux-uclibc-ld
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-ld.bfd -> mips-linux-uclibc-ld.bfd
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-lstrip -> mips-linux-uclibc-lstrip
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-mklink -> mips-linux-uclibc-mklink
+lrwxrwxrwx 1 bruce bruce      20 Dec 30 15:23 msdk-linux-nm -> mips-linux-uclibc-nm
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-objcopy -> mips-linux-uclibc-objcopy
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-objdump -> mips-linux-uclibc-objdump
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-ranlib -> mips-linux-uclibc-ranlib
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-readelf -> mips-linux-uclibc-readelf
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-relink -> mips-linux-uclibc-relink
+lrwxrwxrwx 1 bruce bruce      21 Dec 30 15:23 msdk-linux-run -> mips-linux-uclibc-run
+lrwxrwxrwx 1 bruce bruce      22 Dec 30 15:23 msdk-linux-size -> mips-linux-uclibc-size
+lrwxrwxrwx 1 bruce bruce      24 Dec 30 15:23 msdk-linux-sstrip -> mips-linux-uclibc-sstrip
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-strings -> mips-linux-uclibc-strings
+lrwxrwxrwx 1 bruce bruce      23 Dec 30 15:23 msdk-linux-strip -> mips-linux-uclibc-strip
+lrwxrwxrwx 1 bruce bruce      25 Dec 30 15:23 msdk-linux-wrapper -> mips-linux-uclibc-wrapper
